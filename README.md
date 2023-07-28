@@ -20,7 +20,7 @@ To run the code for this project, please click [here](https://github.com/reshalf
 
 ## Quantitative Result
 
-The table below exhibit the quantitative performance of the model on the test data.
+The table below exhibits the quantitative performance of the model on the test data.
 
 Metrics | Score |
 ------------ | ------------- |
