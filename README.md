@@ -24,7 +24,7 @@ The table below exhibits the quantitative performance of the model on the test d
 
 Metrics | Score |
 ------------ | ------------- |
-Accuracy | 0.742 |
+Accuracy | 0.743 |
 Loss | 2.695 |
 
 
