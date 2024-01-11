@@ -40,7 +40,7 @@ Loss | 2.695 |
 
 The qualitative result is provided as follows:
 
-<p align="center"> <img src="https://github.com/reshalfahsi/node-classification/blob/master/assets/qualitative_result.gif" alt="qualitative_result" > <br /> The visualization of the embedding space of the nodes in the large graph in the course of training process. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/node-classification/blob/master/assets/qualitative_result.gif" alt="qualitative_result" > <br /> The visualization of the embedding space of the nodes in the large graph in the course of the training process. </p>
 
 
 ## Credit
